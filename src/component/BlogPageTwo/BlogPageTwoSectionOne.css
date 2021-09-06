@@ -1,0 +1,13 @@
+.imageCaptionFont {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.125rem;
+  color: #535353;
+}
+.blog_First_Heading {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 40px;
+  color: #105157;
+}
